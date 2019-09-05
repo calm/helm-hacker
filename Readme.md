@@ -23,7 +23,7 @@ brew install helm-hacker
 First, make sure you're able to connect to your kubernetes cluster. Then update your helm chart state using:
 
 ```bash
-helm-hacker RELEASE_NAME
+helm-hacker $RELEASE_NAME
 ```
 
 ## How it Works
